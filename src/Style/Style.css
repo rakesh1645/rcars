@@ -1,0 +1,156 @@
+.footer{
+  margin-top: 20x;
+    display: flex;
+    color: white;
+    font-weight: 600;
+    background-color: #191E5E;
+}
+
+  .inputbox{
+    margin: 70px;;
+  }
+.blankbox h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #ffffff
+}
+.btns{
+  display: flex;
+  justify-content: space-around;
+
+}
+body {
+  background-color: #f6f6f6;
+}
+.ourvehicles{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+@media screen and (max-width: 940px) {
+  
+  .ourvehicles{
+    flex-direction: column;
+    align-items: center;
+  
+  }}
+  @media screen and (max-width: 380px) {
+  
+  .blankbox h1{
+    justify-content: unset;
+  }
+
+ 
+}
+.cardwidth{
+  width: 23rem;
+  margin: 10px;
+}
+@media screen and (max-width: 550px) {
+  .footer{
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 1000px) {
+  
+  .cardwidth{
+    width: auto;
+  }
+  .vehiclesjs{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+  }
+  .VehicleRow{
+    flex-direction: column;
+  }
+}
+
+.vehiclesjs{
+  margin-top: 100px;
+}
+.Main{
+   display: flex;
+
+}
+.from{
+  width: 60%;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+
+}
+.address{
+  width: 40%; 
+  margin-bottom: 10px;
+
+}
+.box1{
+  margin: 20px;
+  background-color:#FFF;
+  padding: 20px;
+}
+.box2{
+
+  margin: 20px;
+  background-color: #FFF;
+  padding: 20px;
+}
+@media screen and (max-width: 800px) {
+  .Main{
+    flex-direction: column;
+    display: flex;
+  }
+  .from{
+    width: auto;
+  }
+  .box1{
+    width: auto;
+
+  }
+  .box2{
+    width: auto;
+  }
+  .address{
+    width: auto;
+  }
+}
+.locationbg{
+margin-bottom: 40px;
+margin-top: 130px;
+}
+.center-box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  padding: 20px;
+  background-color: #FFF; 
+  transform: translate(-50%, -50%);
+  border: 1px solid black; /* Optional: Add a border to the box */
+  z-index: 1050; /* Ensure it is on top of other elements */
+}
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  color: black; /* Optional: Change the color of the close button */
+}
+.companydetail{
+  padding: 40px;
+  background-color: #fff;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+@media screen and (max-width: 600px) {
+  .companydetail{
+   padding: unset;
+  }
+}
