@@ -130,7 +130,8 @@ export const location=[
     },
     {
         id:3,
-        name:"Jodhpur",
+        name:"Jodhpur jaipur",
         img:require('../images/jaipur.png')
+        
     }
 ]
