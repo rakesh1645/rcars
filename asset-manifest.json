@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rakeshreact/static/css/main.af211c40.css",
+    "main.js": "/rakeshreact/static/js/main.7f1897ac.js",
+    "static/js/453.7b44b141.chunk.js": "/rakeshreact/static/js/453.7b44b141.chunk.js",
+    "static/media/home.jpg": "/rakeshreact/static/media/home.cf06a74a60edc1368c77.jpg",
+    "static/media/logo.png": "/rakeshreact/static/media/logo.ba8169b65abda456f6e3.png",
+    "static/media/jaipur.png": "/rakeshreact/static/media/jaipur.c61670fd6b12aacad143.png",
+    "static/media/2.png": "/rakeshreact/static/media/2.4dab574f06dd8ee26bb7.png",
+    "static/media/1.png": "/rakeshreact/static/media/1.0ea3e7c2c728d6dd5866.png",
+    "static/media/v13.png": "/rakeshreact/static/media/v13.a5c55c57fb1f74f72c18.png",
+    "static/media/v8.png": "/rakeshreact/static/media/v8.8b42e8f1776e5a1cfa72.png",
+    "static/media/v19.png": "/rakeshreact/static/media/v19.61d65656cb7a2065b09d.png",
+    "static/media/v6.png": "/rakeshreact/static/media/v6.e7d018ab5c96c671762d.png",
+    "static/media/v1.png": "/rakeshreact/static/media/v1.cc449d989d1121d75fe5.png",
+    "static/media/v7.png": "/rakeshreact/static/media/v7.8a318802fb6a51053a6b.png",
+    "index.html": "/rakeshreact/index.html",
+    "main.af211c40.css.map": "/rakeshreact/static/css/main.af211c40.css.map",
+    "main.7f1897ac.js.map": "/rakeshreact/static/js/main.7f1897ac.js.map",
+    "453.7b44b141.chunk.js.map": "/rakeshreact/static/js/453.7b44b141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af211c40.css",
+    "static/js/main.7f1897ac.js"
+  ]
+}
